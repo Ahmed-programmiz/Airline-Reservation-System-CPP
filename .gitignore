@@ -1,0 +1,27 @@
+# Compiled applications and object files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+apms
+
+# Editor-generated files
+.vscode/
+.idea/
+*.swp
+*~
+tempCodeRunnerFile.*
+
+# Build artifacts
+build/
+dist/
+Debug/
+Release/
+cmake-build-*/
